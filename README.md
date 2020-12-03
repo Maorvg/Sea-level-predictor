@@ -1,1 +1,1 @@
-# Sea-level-predictor
+#This is the Sea-level-predictor. In it I have built a model that can make predictions about current and future sea levels. It uses information of past sea levels, Co2 emissions, temprature anomalies and world population numbers on a yearly basis.
